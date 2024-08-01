@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url("https://img.freepik.com/premium-vector/vector-abstract-colorful-smooth-wave-lines-isolated-transparent-background-design-element-technology-science-music-modern-concept_206325-1207.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722297600&semt=ais_hybrid");
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
